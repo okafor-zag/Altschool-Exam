@@ -1,0 +1,19 @@
+h1{
+    font-size:60px;
+}
+
+nav {
+    margin: 10px;
+    padding: 10px;
+}
+
+button{
+    padding: 20px;
+    border-radius: 10px;
+    margin: 50px 0;
+}
+
+p, pp{
+    font-size: 22px;
+    margin:60px 0;
+}
